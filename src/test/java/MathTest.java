@@ -17,6 +17,6 @@ public class MathTest {
 
     @Test
     public void testPlusSecond(){
-        assertFalse(Math.plus(2, 2) == 5);
+        assertFalse(Math.plus(2, 2) == 4);
     }
 }
